@@ -1,2 +1,4 @@
 # wechart_official_account
 Development of wechart offcial account using python
+用的wechartpy第三方库，web框架用的falcon，windows上内网穿透的话用的waitress，linux上直接上的gunicorn
+后期也许会出教程，这段时间太忙了
